@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Mon Site Internet Simplifié</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<header>
+		<h1>Mon Site Internet Simplifié</h1>
+		<nav>
+			<ul>
+				<li><a href="#">Accueil</a></li>
+				<li><a href="#">A propos</a></li>
+				<li><a href="#">Contact</a></li>
+			</ul>
+		</nav>
+	</header>
+	<main>
+		<section>
+			<h2>Bienvenue sur mon site internet simplifié</h2>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sit amet commodo nulla. Duis commodo, est vel pulvinar scelerisque, lectus metus ultricies ex, a bibendum tortor velit in magna.</p>
+			<p>Nulla facilisi. Sed vestibulum nisl eget tellus dictum, sit amet tristique purus commodo. Curabitur gravida enim a turpis feugiat, eget suscipit odio eleifend. Donec dapibus elit in velit venenatis, vel auctor dolor varius. Nam ut vestibulum mauris. Ut aliquet nulla a velit tristique, eu rhoncus dolor ullamcorper.</p>
+		</section>
+	</main>
+	<footer>
+		<p>&copy; Mon Site Internet Simplifié - 2023</p>
+	</footer>
+</body>
+</html>
